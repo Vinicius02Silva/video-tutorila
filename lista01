@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1-HISTori TV
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/history_b7eb6c68_1bbd6727f11f32cef033509de7dd35af420c1f5d/playlist.m3u8
+#EXTINF:-1-SBT TV
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_92415f803e1ee31ab997acbeb0fbe2795db627f0/playlist.m3u8
